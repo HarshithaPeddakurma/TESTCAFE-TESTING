@@ -18,6 +18,7 @@
 Installation:
 
 npm init
+
 npm install testcafe
 
 Run:
