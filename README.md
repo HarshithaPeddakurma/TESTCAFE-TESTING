@@ -17,6 +17,10 @@
 
 Installation:
 
+Install Visual studio code
+
+In the terminal new terminal run the below command
+
 npm init
 
 npm install testcafe
